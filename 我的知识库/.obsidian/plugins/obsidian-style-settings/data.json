@@ -1,0 +1,12 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
+  "blue-topaz-theme@@hide-vault-name": false,
+  "blue-topaz-theme@@file-line-width": 60,
+  "blue-topaz-theme@@toggle-left-aligned-content": true,
+  "blue-topaz-theme@@tab-title-bar-position": false,
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@bt-status-on": false
+}

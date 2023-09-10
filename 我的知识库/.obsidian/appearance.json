@@ -1,0 +1,17 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 16,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "checkbox",
+    "clutter-free-headings",
+    "inline-block-embeds",
+    "notation-colour-blocks",
+    "omega-hr",
+    "highlight",
+    "page-width"
+  ],
+  "accentColor": "",
+  "nativeMenus": false
+}

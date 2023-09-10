@@ -1,0 +1,445 @@
+{
+  "main": {
+    "id": "068a0f477b49e2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92472e8a6389454",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "5-博客写作/Obisidian使用配置指南.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/Obisidian使用配置指南.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/Linux文件误删.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/Obisidian使用配置指南.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":3.5216435472098473}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/WSL2.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/Obisidian使用配置指南.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":22.107162095918646}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/程序员生产力环境配置.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/打造一个优秀的命令行.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/程序员生产力环境配置.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5-博客写作/常用的效率工具.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/博客/知识网站.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/代码Snippet/Java.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":98.94422737757365}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/代码Snippet/Go.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/代码Snippet/Cpp.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/代码Snippet/C.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7-资源管理/博客/知识网站.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"8-会议纪要/毕业要求会议.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":50.09982458750407}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3-文献阅读/@martinkleppmannSheJiShuJuMiJiXingXiTong2018.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":2},\"to\":{\"line\":112,\"ch\":2}},\"scroll\":63.36217260617358}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3-文献阅读/@lamportTimeClocksOrdering1978.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3-文献阅读/@jaydenwen123ShuJuCunChuYuJianSuoXiangJiebShuCunChuYinQing.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "b92472e8a6389454",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3-文献阅读/@GRPCYuYunYuanShengYingYongKaiFa.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41218766160c14d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f00b74f853bc68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1368446d8558801d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "725c11450577156a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "makefile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b2c771a5f518d332",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "95cee0846e1608e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "286215c54d120e68",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "e19cec26f8320be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01c1c8b359f7c5a",
+        "type": "tabs",
+        "dimension": 40.022296544035676,
+        "children": [
+          {
+            "id": "679f67d6697852fd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d1dd3217c28aed0f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "acde34608a9b53d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "9c9330d6d84b9400",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "70b513800dff19c3",
+        "type": "tabs",
+        "dimension": 37.56967670011148,
+        "children": [
+          {
+            "id": "d8b60d58a581fa04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5-博客写作/Obisidian使用配置指南.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "945aa64bd1476a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-日常规划/任务计划/学习进度.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e19af22c4e61fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-MOC/root-moc.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "225f8b5a992640e2",
+        "type": "tabs",
+        "dimension": 22.408026755852845,
+        "children": [
+          {
+            "id": "5ce09f0882e05453",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5-博客写作/Obisidian使用配置指南.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "030c40bcd0a5d2b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5-博客写作/Obisidian使用配置指南.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "fbb6f420f66daafd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "5-博客写作/Obisidian使用配置指南.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.07932857096163255,
+                  "close": false
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.2857360839844
+  },
+  "active": "b92472e8a6389454",
+  "lastOpenFiles": [
+    "5-博客写作/Linux文件误删.md",
+    "5-博客写作/Obisidian使用配置指南.md",
+    "5-博客写作/WSL2.md",
+    "5-博客写作/程序员生产力环境配置.md",
+    "5-博客写作/打造一个优秀的命令行.md",
+    "5-博客写作/常用的效率工具.md",
+    "7-资源管理/博客/知识网站.md",
+    "7-资源管理/代码Snippet/Java.md",
+    "7-资源管理/代码Snippet/Go.md",
+    "7-资源管理/代码Snippet/Cpp.md"
+  ]
+}

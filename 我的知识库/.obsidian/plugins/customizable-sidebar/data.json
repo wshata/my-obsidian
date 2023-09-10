@@ -1,0 +1,28 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-citation-plugin:open-literature-note",
+      "name": "Citations: Open literature note",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Ctrl",
+            "Shift"
+          ],
+          "key": "o"
+        }
+      ],
+      "icon": "note-glyph"
+    },
+    {
+      "id": "obsidian-markmind:Change layout to right",
+      "name": "obsidian markmind: 切换思维导图布局为右侧",
+      "icon": "right-arrow-with-tail"
+    }
+  ],
+  "hiddenCommands": [],
+  "pinSidebar": {
+    "right": true,
+    "left": true
+  }
+}

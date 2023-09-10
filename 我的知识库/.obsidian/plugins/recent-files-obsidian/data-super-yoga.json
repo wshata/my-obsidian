@@ -1,0 +1,198 @@
+{
+  "recentFiles": [
+    {
+      "basename": "gRPC",
+      "path": "2-技术学习/RPC/gRPC.md"
+    },
+    {
+      "basename": "NOTES.txt",
+      "path": "2-技术学习/Helm/Template/NOTES.txt.md"
+    },
+    {
+      "basename": "3-技术研究",
+      "path": "3-技术研究/3-技术研究.md"
+    },
+    {
+      "basename": "2-技术学习",
+      "path": "2-技术学习/2-技术学习.md"
+    },
+    {
+      "basename": "相关工作",
+      "path": "2-技术学习/Go/相关工作.md"
+    },
+    {
+      "basename": "chart开发提示和技巧",
+      "path": "2-技术学习/Helm/chart开发提示和技巧.md"
+    },
+    {
+      "basename": "相关设置",
+      "path": "2-技术学习/Vim/相关设置.md"
+    },
+    {
+      "basename": "参考资料",
+      "path": "2-技术学习/eBPF/参考资料.md"
+    },
+    {
+      "basename": "2022-04-23",
+      "path": "1-日常规划/week/2022-04-23.md"
+    },
+    {
+      "basename": "1-日常规划",
+      "path": "1-日常规划/1-日常规划.md"
+    },
+    {
+      "basename": "2022-04-15",
+      "path": "1-日常规划/day/2022-04-15.md"
+    },
+    {
+      "basename": "a",
+      "path": "Attachment/PDF/a.pdf"
+    },
+    {
+      "basename": "6-项目管理",
+      "path": "6-项目管理/6-项目管理.md"
+    },
+    {
+      "basename": "大纲",
+      "path": "3-技术研究/分布式存储/大纲.md"
+    },
+    {
+      "basename": "基本介绍",
+      "path": "2-技术学习/Helm/基本介绍.md"
+    },
+    {
+      "basename": "在模板内部访问文件",
+      "path": "2-技术学习/Helm/Template/在模板内部访问文件.md"
+    },
+    {
+      "basename": "内置对象",
+      "path": "2-技术学习/Helm/Template/内置对象.md"
+    },
+    {
+      "basename": "模板函数列表",
+      "path": "2-技术学习/Helm/Template/模板函数列表.md"
+    },
+    {
+      "basename": "模板函数和流水线",
+      "path": "2-技术学习/Helm/Template/模板函数和流水线.md"
+    },
+    {
+      "basename": "命名模板",
+      "path": "2-技术学习/Helm/Template/命名模板.md"
+    },
+    {
+      "basename": "变量",
+      "path": "2-技术学习/Helm/Template/变量.md"
+    },
+    {
+      "basename": "分布式存储",
+      "path": "3-技术研究/分布式存储/分布式存储.md"
+    },
+    {
+      "basename": "基本命令",
+      "path": "2-技术学习/Helm/基本命令.md"
+    },
+    {
+      "basename": "Chart.yaml",
+      "path": "2-技术学习/Helm/chart/Chart.yaml.md"
+    },
+    {
+      "basename": "Chart结构",
+      "path": "2-技术学习/Helm/chart/Chart结构.md"
+    },
+    {
+      "basename": "Values",
+      "path": "2-技术学习/Helm/chart/Values.md"
+    },
+    {
+      "basename": "Template",
+      "path": "2-技术学习/Helm/chart/Template.md"
+    },
+    {
+      "basename": "4-文献阅读",
+      "path": "4-文献阅读/4-文献阅读.md"
+    },
+    {
+      "basename": "共识算法",
+      "path": "3-技术研究/分布式存储/共识算法.md"
+    },
+    {
+      "basename": "安装",
+      "path": "2-技术学习/K8s/安装.md"
+    },
+    {
+      "basename": "安装-bigdata",
+      "path": "2-技术学习/K8s/安装-bigdata.md"
+    },
+    {
+      "basename": "论文阅读",
+      "path": "3-技术研究/分布式存储/论文阅读.md"
+    },
+    {
+      "basename": "@lamportTimeClocksOrdering1978",
+      "path": "4-文献阅读/@lamportTimeClocksOrdering1978.md"
+    },
+    {
+      "basename": "helm",
+      "path": "Attachment/Excalidraw/helm.md"
+    },
+    {
+      "basename": "相关工作",
+      "path": "3-技术研究/分布式存储/相关工作.md"
+    },
+    {
+      "basename": "相关资源",
+      "path": "3-技术研究/人工智能/相关资源.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "3-技术研究/CNCF/微服务/未命名.md"
+    },
+    {
+      "basename": "学习资料",
+      "path": "2-技术学习/Go/学习资料.md"
+    },
+    {
+      "basename": "istio",
+      "path": "3-技术研究/CNCF/服务网格/istio.md"
+    },
+    {
+      "basename": "相关资源",
+      "path": "3-技术研究/分布式存储/相关资源.md"
+    },
+    {
+      "basename": "month",
+      "path": "1-日常规划/month/month.md"
+    },
+    {
+      "basename": "Linux文件误删",
+      "path": "5-博客写作/Linux文件误删.md"
+    },
+    {
+      "basename": "子chart和全局值",
+      "path": "2-技术学习/Helm/Template/子chart和全局值.md"
+    },
+    {
+      "basename": "打造一个优秀的命令行",
+      "path": "5-博客写作/打造一个优秀的命令行.md"
+    },
+    {
+      "basename": "流控制",
+      "path": "2-技术学习/Helm/Template/流控制.md"
+    },
+    {
+      "basename": "Values文件",
+      "path": "2-技术学习/Helm/Template/Values文件.md"
+    },
+    {
+      "basename": "学习资源",
+      "path": "3-技术研究/计算机系统/学习资源.md"
+    },
+    {
+      "basename": "week",
+      "path": "Attachment/template/week.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

@@ -1,0 +1,94 @@
+{
+  "recentFiles": [
+    {
+      "basename": "流控制",
+      "path": "2-技术学习/Helm/Template/流控制.md"
+    },
+    {
+      "basename": "模板函数列表",
+      "path": "2-技术学习/Helm/Template/模板函数列表.md"
+    },
+    {
+      "basename": "模板函数和流水线",
+      "path": "2-技术学习/Helm/Template/模板函数和流水线.md"
+    },
+    {
+      "basename": "Values文件",
+      "path": "2-技术学习/Helm/Template/Values文件.md"
+    },
+    {
+      "basename": "内置对象",
+      "path": "2-技术学习/Helm/Template/内置对象.md"
+    },
+    {
+      "basename": "Values",
+      "path": "2-技术学习/Helm/Chart/Values.md"
+    },
+    {
+      "basename": "Template",
+      "path": "2-技术学习/Helm/Chart/Template.md"
+    },
+    {
+      "basename": "Chart",
+      "path": "2-技术学习/Helm/Chart.md"
+    },
+    {
+      "basename": "基本介绍",
+      "path": "2-技术学习/Helm/基本介绍.md"
+    },
+    {
+      "basename": "Chart.yaml",
+      "path": "2-技术学习/Helm/Chart/Chart.yaml.md"
+    },
+    {
+      "basename": "基本命令",
+      "path": "2-技术学习/Helm/基本命令.md"
+    },
+    {
+      "basename": "2-技术学习",
+      "path": "2-技术学习/2-技术学习.md"
+    },
+    {
+      "basename": "4-7",
+      "path": "1-日常规划/任务计划/4-7.md"
+    },
+    {
+      "basename": "1-日常规划",
+      "path": "1-日常规划/1-日常规划.md"
+    },
+    {
+      "basename": "3-技术研究",
+      "path": "3-技术研究/3-技术研究.md"
+    },
+    {
+      "basename": "6-项目管理",
+      "path": "6-项目管理/6-项目管理.md"
+    },
+    {
+      "basename": "4-文献阅读",
+      "path": "4-文献阅读/4-文献阅读.md"
+    },
+    {
+      "basename": "@lamportTimeClocksOrdering1978",
+      "path": "4-文献阅读/@lamportTimeClocksOrdering1978.md"
+    },
+    {
+      "basename": "2022-04-20",
+      "path": "1-日常规划/day/2022-04-20.md"
+    },
+    {
+      "basename": "2022-04-15",
+      "path": "1-日常规划/day/2022-04-15.md"
+    },
+    {
+      "basename": "helm",
+      "path": "Attachment/Excalidraw/helm.md"
+    },
+    {
+      "basename": "转换格式",
+      "path": "Attachment/template/转换格式.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

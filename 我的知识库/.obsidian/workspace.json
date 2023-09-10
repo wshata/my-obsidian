@@ -1,0 +1,459 @@
+{
+  "main": {
+    "id": "068a0f477b49e2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c49f51cb6744ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21996b577c1e88b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Attachment/dataview/test.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Readme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Readme.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":37},\"to\":{\"line\":6,\"ch\":37}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41218766160c14d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f00b74f853bc68",
+        "type": "tabs",
+        "dimension": 71.04795737122558,
+        "children": [
+          {
+            "id": "1368446d8558801d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "725c11450577156a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c771a5f518d332",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "95cee0846e1608e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c79313471da491bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "fccd1d27a9c060b8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "6ccd7b3422f93634",
+        "type": "tabs",
+        "dimension": 28.95204262877442,
+        "children": [
+          {
+            "id": "acde34608a9b53d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "e19cec26f8320be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01c1c8b359f7c5a",
+        "type": "tabs",
+        "dimension": 40.022296544035676,
+        "children": [
+          {
+            "id": "679f67d6697852fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1dd3217c28aed0f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c9330d6d84b9400",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "70b513800dff19c3",
+        "type": "tabs",
+        "dimension": 37.56967670011148,
+        "children": [
+          {
+            "id": "d8b60d58a581fa04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "945aa64bd1476a6d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e19af22c4e61fe5e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "225f8b5a992640e2",
+        "type": "tabs",
+        "dimension": 22.408026755852845,
+        "children": [
+          {
+            "id": "5ce09f0882e05453",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030c40bcd0a5d2b2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fbb6f420f66daafd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.07932857096163255,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.2857360839844
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-gallery:Gallery": false,
+      "customizable-sidebar:Citations: Open literature note": false,
+      "customizable-sidebar:obsidian markmind: 切换思维导图布局为右侧": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d8b60d58a581fa04",
+  "lastOpenFiles": [
+    "Readme.md",
+    "Attachment/dataview/test.md",
+    "Attachment/Excalidraw/Readme 2023-09-10 18.17.10.excalidraw.md",
+    "Attachment/Excalidraw/Readme 2023-09-10 18.12.01.excalidraw.md",
+    "Attachment/Excalidraw/Drawing 2023-09-10 18.10.45.excalidraw.md",
+    "Drawing 2023-09-10 18.08.05.excalidraw.md",
+    "Drawing 2023-09-10 18.05.34.excalidraw.md",
+    "Attachment/Excalidraw/服务器信息 2022-04-28 09.31.27.excalidraw.md",
+    "Attachment/Excalidraw/@martinkleppmannSheJiShuJuMiJiXingXiTong2018 2022-04-26 14.12.13.excalidraw.md",
+    "5-博客写作/Linux文件误删.md",
+    "5-博客写作/Obisidian使用配置指南.md",
+    "5-博客写作/WSL2.md",
+    "5-博客写作/程序员生产力环境配置.md",
+    "5-博客写作/打造一个优秀的命令行.md",
+    "5-博客写作/常用的效率工具.md",
+    "7-资源管理/博客/知识网站.md",
+    "7-资源管理/代码Snippet/Java.md",
+    "7-资源管理/代码Snippet/Go.md",
+    "7-资源管理/代码Snippet/Cpp.md"
+  ]
+}

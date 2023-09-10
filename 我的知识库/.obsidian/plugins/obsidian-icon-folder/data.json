@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarHandPointDown",
+      "FarFileExcel",
+      "FarCalendar",
+      "Fas0",
+      "FarBell"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "rules": [],
+    "emojiStyle": "none",
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "1-日常规划": "FarFaceSmile",
+  "2-技术学习": "FarHandPointRight",
+  "5-博客写作": "FarPenToSquare",
+  "6-项目管理": "FarFaceMehBlank",
+  "Attachment": "FarFolder",
+  "Attachment/Images": "FarImages",
+  "1-日常规划/day": "FarClock",
+  "1-日常规划/month": "FarCalendarDays",
+  "1-日常规划/week": "FarCalendar",
+  "1-日常规划/任务计划": "FarPaperPlane",
+  "Attachment/PDF": "FarFilePdf",
+  "Attachment/template": "FarFileWord",
+  "Attachment/Mind": "FarLightbulb",
+  "Attachment/Excalidraw": "FarFileImage",
+  "Attachment/zotero": "FarFileCode",
+  "Attachment/Excel": "FarFileExcel",
+  "7-资源管理": "FarHeart",
+  "3-文献阅读": "FarAddressBook",
+  "4-技术研究": "FarFaceTired",
+  "0-MOC": "FarMap",
+  "0-MOC/root-moc.md": "FarHandPointDown"
+}

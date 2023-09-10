@@ -1,0 +1,23 @@
+:root {
+    /* define our new highlight colors */
+    --text-highlight-bg-yellow: rgba(255, 242, 0, 0.4);
+    --text-highlight-bg-green: rgba(8, 255, 0, 0.4);
+    --text-highlight-bg-red: rgba(255, 0, 17, 0.4);
+    --text-highlight-bg-blue: rgba(0, 183, 255, 0.4);
+  }
+  
+  mark, mark.yellow {
+    background-color: var(--text-highlight-bg-yellow);
+  }
+  
+  mark.green {
+    background-color: var(--text-highlight-bg-green);
+  }
+  
+  mark.red {
+    background-color: var(--text-highlight-bg-red);
+  }
+  
+  mark.blue {
+    background-color: var(--text-highlight-bg-blue);
+  }

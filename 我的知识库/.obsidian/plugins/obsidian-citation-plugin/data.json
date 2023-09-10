@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "3-文献阅读",
+  "literatureNoteContentTemplate": "---\nauthors: {{authorString}}\nyear: {{year}}\ntags: {{entry.data.fields.keywords}}\nmindmap-plugin: basic\n---\n\n# {{title}}\n\n## Info\n###  [zotero link]({{zoteroSelectURI}})\n\n### Abstract\n* {{abstract}}\n\n## 阅读笔记\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "Attachment/zotero/我的文库.bib"
+}
